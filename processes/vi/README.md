@@ -51,13 +51,13 @@ Mỗi quy trình nên chứa:
 
 ## 📚 Quy Trình Có Sẵn
 
-### [🧩 Quy Trình Cơ Bản Phổ Quát](./base.md)
-Quy trình cơ bản của DJIN: **PoC → MVP → Sản Phẩm Cuối Cùng**.
-Định nghĩa cách mọi sáng tạo được sinh ra và phát triển, đi qua 5 trụ cột: Định nghĩa, Kiến trúc, Kỹ thuật, QA và Triển khai.
+- **[🧩 Quy Trình Cơ Bản Phổ Quát](./base.md)**
+  Quy trình cơ bản của DJIN: **PoC → MVP → Sản Phẩm Cuối Cùng**.
+  Định nghĩa cách mọi sáng tạo được sinh ra và phát triển, đi qua 5 trụ cột: Định nghĩa, Kiến trúc, Kỹ thuật, QA và Triển khai.
 
-### [🔄 QA-P-0001 — Đảm Bảo Chất Lượng Toàn Diện](./QA/QA-P-0001.md)
-Quy trình QA hoàn chỉnh tại DJIN, từ phân loại ban đầu đến xác nhận cuối cùng.
-Định nghĩa **QA[1]** (phân loại tiếp nhận) và **QA[2]** (xác nhận cuối cùng trước khi giao hàng).
+- **[🔄 QA-P-0001 — Đảm Bảo Chất Lượng Toàn Diện](./QA/QA-P-0001.md)**
+  Quy trình QA hoàn chỉnh tại DJIN, từ phân loại ban đầu đến xác nhận cuối cùng.
+  Định nghĩa **QA[1]** (phân loại tiếp nhận) và **QA[2]** (xác nhận cuối cùng trước khi giao hàng).
 
 ---
 

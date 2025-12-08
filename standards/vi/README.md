@@ -49,5 +49,25 @@ Mỗi Standard nên chứa:
 
 ---
 
+## 📚 Standards Có Sẵn
+
+### Quality Assurance (QA)
+
+- **[QA-ST-0001 — Tiêu Chuẩn Kiểm Thử và Xác Minh Nhanh](./QA/QA-ST-0001.md)**
+  _Liên quan: [Danh Sách Kiểm Tra In Được](../../toolbox/QA-ST-0001/checklist-vi.md)_
+
+- **[QA-ST-0002 — Tiêu Chuẩn Chất Lượng cho DJIN Members (QA)](./QA/QA-ST-0002.md)**
+
+### Kỹ Thuật
+
+- **[DJIN Coding Standards](./Engineering/DJIN-Coding-Standards.md)**
+  Tiêu chuẩn và thực hành phát triển cốt lõi
+
+- **[QA-ST-0001 (Tham Chiếu)](./Engineering/QA-ST-0001.md)** → Tham chiếu chéo đến [phiên bản QA](./QA/QA-ST-0001.md)
+
+- **[QA-ST-0002 (Tham Chiếu)](./Engineering/QA-ST-0002.md)** → Tham chiếu chéo đến [phiên bản QA](./QA/QA-ST-0002.md)
+
+---
+
 **Standards không tồn tại để làm cứng nhắc.**
 **Chúng tồn tại để nâng cao mức độ của mọi thứ chúng ta làm.**

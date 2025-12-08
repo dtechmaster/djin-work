@@ -64,5 +64,14 @@ Trước khi đề xuất, hãy trả lời:
 
 ---
 
+## 🧰 Công Cụ Có Sẵn
+
+### Quality Assurance
+
+- **[QA-ST-0001 Checklist](../QA-ST-0001/checklist-vi.md)** — Danh sách kiểm tra và xác minh nhanh
+  _Liên quan đến: [QA-ST-0001 Standard](../../standards/vi/QA/QA-ST-0001.md)_
+
+---
+
 **Toolbox không tồn tại để hạn chế lựa chọn.**
 **Nó tồn tại để đảm bảo chúng ta luôn có các công cụ phù hợp trong tay.**
