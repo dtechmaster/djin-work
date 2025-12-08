@@ -18,6 +18,14 @@ It's simple, accessible, and frequent.
 
 ---
 
+## Who can participate
+
+**Any DJIN Member** can submit contributions to DJIN Inspire.
+
+Regardless of your role or department — QA, Engineering, Architecture, Support, Sales — all DJIN Members are eligible.
+
+---
+
 ## What qualifies
 
 Creative contributions made **outside working hours** and aligned with HEART:
@@ -53,7 +61,7 @@ Creative contributions made **outside working hours** and aligned with HEART:
 Because **creating with consistency transforms people**.
 And scientific culture is born from small acts of curiosity repeated weekly.
 
-DJIN Inspire ensures everyone at DJIN has space — and incentive — to become better creators every month.
+DJIN Inspire ensures all **DJIN Members** have space — and incentive — to become better creators every month.
 
 ---
 

@@ -14,6 +14,14 @@ DJIN Inspire existe para **estimular curiosidade, criatividade e produção cont
 
 ---
 
+## Quem pode participar
+
+**Qualquer DJIN Member** pode submeter contribuições para o DJIN Inspire.
+
+Não importa sua função ou departamento — QA, Engenharia, Arquitetura, Suporte, Sales — todos os DJIN Members são elegíveis.
+
+---
+
 ## O que entra
 
 Contribuições criativas feitas **fora do expediente** e alinhadas ao HEART:
@@ -49,7 +57,7 @@ Contribuições criativas feitas **fora do expediente** e alinhadas ao HEART:
 Porque **criar com constância transforma pessoas**.
 E cultura científica nasce de pequenos atos de curiosidade repetidos semanalmente.
 
-DJIN Inspire garante que todos na DJIN tenham espaço — e incentivo — para se tornarem melhores criadores todo mês.
+DJIN Inspire garante que todos os **DJIN Members** tenham espaço — e incentivo — para se tornarem melhores criadores todo mês.
 
 ---
 

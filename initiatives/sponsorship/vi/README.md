@@ -42,19 +42,21 @@ Nó **đào tạo các nhà lãnh đạo tương lai của DJIN**.
 
 ## Ai nhận được
 
-Những người tích lũy **công lao thực sự**, không phải nịnh hót.
+**DJIN Members** tích lũy **công lao thực sự**, không phải nịnh hót.
 Những người đang phát triển nhanh và phù hợp với tương lai của DJIN.
+
+Bất kỳ DJIN Member nào — từ bất kỳ bộ phận nào (QA, Kỹ thuật, Kiến trúc, Hỗ trợ, Bán hàng) — đều đủ điều kiện cho Sponsorship.
 
 ---
 
 ## Nó hoạt động như thế nào
 
-Sponsorship chỉ xảy ra khi:
+Sponsorship chỉ xảy ra khi **DJIN Member**:
 
-* HEART vững chắc
-* có lịch sử giao hàng thông minh
-* người đó tạo ra giá trị nhân lên cho toàn bộ công ty
-* tích lũy **Sponsorship Points**
+* Thể hiện HEART vững chắc
+* Có lịch sử giao hàng thông minh
+* Tạo ra giá trị nhân lên cho toàn bộ công ty
+* Tích lũy **Sponsorship Points**
 
 **DJIN Sponsorship là đầu tư, không phải phúc lợi.**
 

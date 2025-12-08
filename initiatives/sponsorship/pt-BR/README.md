@@ -38,19 +38,21 @@ Ele **forma futuros líderes da DJIN**.
 
 ## Quem recebe
 
-Pessoas que acumulam **méritos reais**, não bajulação.
+**DJIN Members** que acumulam **méritos reais**, não bajulação.
 Gente que está crescendo rápido e alinhada com o futuro da DJIN.
+
+Qualquer DJIN Member — de qualquer departamento (QA, Engenharia, Arquitetura, Suporte, Sales) — é elegível para Sponsorship.
 
 ---
 
 ## Como funciona
 
-Sponsorship só acontece quando:
+Sponsorship só acontece quando o **DJIN Member**:
 
-* HEART está sólido
-* há histórico de entregas inteligentes
-* a pessoa cria valor que multiplica para empresa inteira
-* acumula **Sponsorship Points**
+* Demonstra HEART sólido
+* Possui histórico de entregas inteligentes
+* Cria valor que multiplica para a empresa inteira
+* Acumula **Sponsorship Points**
 
 **DJIN Sponsorship é investimento, não benefício.**
 

@@ -18,6 +18,14 @@ DJIN Inspire tồn tại để **kích thích sự tò mò, sáng tạo và sả
 
 ---
 
+## Ai có thể tham gia
+
+**Bất kỳ DJIN Member nào** đều có thể gửi đóng góp cho DJIN Inspire.
+
+Bất kể vai trò hoặc bộ phận của bạn — QA, Kỹ thuật, Kiến trúc, Hỗ trợ, Bán hàng — tất cả DJIN Members đều đủ điều kiện.
+
+---
+
 ## Những gì đủ điều kiện
 
 Đóng góp sáng tạo được thực hiện **ngoài giờ làm việc** và phù hợp với HEART:
@@ -53,7 +61,7 @@ DJIN Inspire tồn tại để **kích thích sự tò mò, sáng tạo và sả
 Bởi vì **sáng tạo với sự nhất quán làm thay đổi con người**.
 Và văn hóa khoa học được sinh ra từ những hành động tò mò nhỏ được lặp lại hàng tuần.
 
-DJIN Inspire đảm bảo mọi người tại DJIN có không gian — và khuyến khích — để trở thành những người sáng tạo tốt hơn mỗi tháng.
+DJIN Inspire đảm bảo tất cả **DJIN Members** có không gian — và khuyến khích — để trở thành những người sáng tạo tốt hơn mỗi tháng.
 
 ---
 
