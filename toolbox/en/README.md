@@ -64,5 +64,14 @@ Before proposing, answer:
 
 ---
 
+## 🧰 Available Tools
+
+### Quality Assurance
+
+- **[QA-ST-0001 Checklist](../QA-ST-0001/checklist-en.md)** — Test and quick verification checklist
+  _Associated with: [QA-ST-0001 Standard](../../standards/en/QA/QA-ST-0001.md)_
+
+---
+
 **The Toolbox doesn't exist to limit choices.**
 **It exists to ensure we always have the right instruments at hand.**

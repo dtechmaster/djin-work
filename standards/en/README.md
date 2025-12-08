@@ -49,5 +49,25 @@ Each Standard should contain:
 
 ---
 
+## 📚 Available Standards
+
+### Quality Assurance (QA)
+
+- **[QA-ST-0001 — Test and Quick Verification Standard](./QA/QA-ST-0001.md)**
+  _Related: [Printable Checklist](../../toolbox/QA-ST-0001/checklist-en.md)_
+
+- **[QA-ST-0002 — Quality Standard for DJIN Members (QA)](./QA/QA-ST-0002.md)**
+
+### Engineering
+
+- **[DJIN Coding Standards](./Engineering/DJIN-Coding-Standards.md)**
+  Core development standards and practices
+
+- **[QA-ST-0001 (Reference)](./Engineering/QA-ST-0001.md)** → Cross-reference to [QA version](./QA/QA-ST-0001.md)
+
+- **[QA-ST-0002 (Reference)](./Engineering/QA-ST-0002.md)** → Cross-reference to [QA version](./QA/QA-ST-0002.md)
+
+---
+
 **Standards don't exist to make things rigid.**
 **They exist to elevate the level of everything we do.**
