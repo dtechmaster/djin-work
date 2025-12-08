@@ -5,3 +5,4 @@
 - verificar se existem erros de ortografia
 - Anotar erros encontrados em arquivos .md
 - Iterar cada arquivo .md para corrigir erros
+- Remover arquivos .md corrigidos
