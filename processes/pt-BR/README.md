@@ -51,13 +51,13 @@ Cada processo deve conter:
 
 ## 📚 Processos Disponíveis
 
-### [🧩 Processo Base Universal](./base.md)
-O processo fundamental da DJIN: **PoC → MVP → Produto Final**.
-Define como qualquer criação nasce e evolui, passando pelos 5 pilares: Definição, Arquitetura, Engenharia, QA e Deploy.
+- **[🧩 Processo Base Universal](./base.md)**
+  O processo fundamental da DJIN: **PoC → MVP → Produto Final**.
+  Define como qualquer criação nasce e evolui, passando pelos 5 pilares: Definição, Arquitetura, Engenharia, QA e Deploy.
 
-### [🔄 QA-P-0001 — Controle de Qualidade End-to-End](./QA/QA-P-0001.md)
-Processo completo de QA na DJIN, desde a triagem inicial até a validação final.
-Define **QA[1]** (triagem de entrada) e **QA[2]** (validação final antes da entrega).
+- **[🔄 QA-P-0001 — Controle de Qualidade End-to-End](./QA/QA-P-0001.md)**
+  Processo completo de QA na DJIN, desde a triagem inicial até a validação final.
+  Define **QA[1]** (triagem de entrada) e **QA[2]** (validação final antes da entrega).
 
 ---
 

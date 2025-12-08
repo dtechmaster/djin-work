@@ -49,5 +49,25 @@ Cada Standard deve conter:
 
 ---
 
+## 📚 Standards Disponíveis
+
+### Quality Assurance (QA)
+
+- **[QA-ST-0001 — Standard de Teste e Verificação Rápida](./QA/QA-ST-0001.md)**
+  _Relacionado: [Checklist Imprimível](../../toolbox/QA-ST-0001/checklist-pt-BR.md)_
+
+- **[QA-ST-0002 — Standard de Qualidade para DJIN Members (QA)](./QA/QA-ST-0002.md)**
+
+### Engenharia
+
+- **[DJIN Coding Standards](./Engineering/DJIN-Coding-Standards.md)**
+  Padrões e práticas de desenvolvimento centrais
+
+- **[QA-ST-0001 (Referência)](./Engineering/QA-ST-0001.md)** → Referência cruzada para [versão QA](./QA/QA-ST-0001.md)
+
+- **[QA-ST-0002 (Referência)](./Engineering/QA-ST-0002.md)** → Referência cruzada para [versão QA](./QA/QA-ST-0002.md)
+
+---
+
 **Standards não existem para engessar.**
 **Eles existem para elevar o nível de tudo que fazemos.**
