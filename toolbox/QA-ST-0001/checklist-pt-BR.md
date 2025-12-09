@@ -14,8 +14,15 @@
 
 ## **1. Traduções**
 
+**Se você é DJIN Member nativo do idioma:**
+☐ Traduções validadas usando conhecimento nativo
+☐ DeepL/Takoboto usados como suporte em caso de dúvida
+
+**Se você é DJIN Member não-nativo:**
 ☐ Textos completos validados no DeepL
 ☐ Palavras soltas validadas no Takoboto
+
+**Para todos:**
 ☐ Ordem dos nomes conforme idioma da UI
 ☐ Avatar + Nome exibidos corretamente
 

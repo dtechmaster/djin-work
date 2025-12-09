@@ -14,8 +14,15 @@
 
 ## **1. Bản dịch**
 
+**Nếu bạn là DJIN Member bản địa của ngôn ngữ:**
+☐ Bản dịch được xác thực bằng kiến thức bản địa
+☐ DeepL/Takoboto được sử dụng làm hỗ trợ trong trường hợp nghi ngờ
+
+**Nếu bạn là DJIN Member không phải bản địa:**
 ☐ Văn bản đầy đủ đã xác thực trong DeepL
 ☐ Từ đơn lẻ đã xác thực trong Takoboto
+
+**Cho tất cả mọi người:**
 ☐ Thứ tự tên theo ngôn ngữ UI
 ☐ Avatar + Tên hiển thị đúng
 
