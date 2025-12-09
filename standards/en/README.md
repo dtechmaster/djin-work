@@ -54,7 +54,7 @@ Each Standard should contain:
 ### Quality Assurance (QA)
 
 - **[QA-ST-0001 — Test and Quick Verification Standard](./QA/QA-ST-0001.md)**
-  _Related: [Printable Checklist](../../toolbox/QA-ST-0001/checklist-en.md)_
+  _Related: [Checklist](../../toolbox/QA-ST-0001/checklist-en.md)_
 
 - **[QA-ST-0002 — Quality Standard for DJIN Members (QA)](./QA/QA-ST-0002.md)**
 

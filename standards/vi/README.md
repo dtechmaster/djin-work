@@ -54,7 +54,7 @@ Mỗi Standard nên chứa:
 ### Quality Assurance (QA)
 
 - **[QA-ST-0001 — Tiêu Chuẩn Kiểm Thử và Xác Minh Nhanh](./QA/QA-ST-0001.md)**
-  _Liên quan: [Danh Sách Kiểm Tra In Được](../../toolbox/QA-ST-0001/checklist-vi.md)_
+  _Liên quan: [Danh Sách Kiểm Tra](../../toolbox/QA-ST-0001/checklist-vi.md)_
 
 - **[QA-ST-0002 — Tiêu Chuẩn Chất Lượng cho DJIN Members (QA)](./QA/QA-ST-0002.md)**
 

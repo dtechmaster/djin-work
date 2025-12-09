@@ -1,4 +1,4 @@
-# ✔ PRINTABLE CHECKLIST — QA-ST-0001
+# ✔ CHECKLIST — QA-ST-0001
 
 **[← Back to Complete Standard](../../standards/en/QA/QA-ST-0001.md)**
 

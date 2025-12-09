@@ -1,4 +1,4 @@
-# ✔ DANH SÁCH KIỂM TRA CÓ THỂ IN — QA-ST-0001
+# ✔ DANH SÁCH KIỂM TRA — QA-ST-0001
 
 **[← Quay lại Tiêu chuẩn Hoàn chỉnh](../../standards/vi/QA/QA-ST-0001.md)**
 

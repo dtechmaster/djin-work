@@ -54,7 +54,7 @@
 ### Quality Assurance (QA)
 
 - **[QA-ST-0001 — テストと迅速検証標準](./QA/QA-ST-0001.md)**
-  _関連: [印刷可能なチェックリスト](../../toolbox/QA-ST-0001/checklist-ja.md)_
+  _関連: [チェックリスト](../../toolbox/QA-ST-0001/checklist-ja.md)_
 
 - **[QA-ST-0002 — DJIN Members向け品質標準 (QA)](./QA/QA-ST-0002.md)**
 
